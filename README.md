@@ -32,13 +32,13 @@ Ganache GUI: 2.5.4
 ```
 
 ### Project write-up - IPFS
-No IPFS used in this project.
+No IPFS is used in this project.
 
 ### Project write-up - General
-- Download the project from the github
-- Set up Ganache GUI to create a workspace with truffle-config.js. Use MNEMNIC "canyon decide cause palace clever model stadium tragic syrup knee such squirrel"
+- Download the project from the github repo.
+- Set up the Ganache GUI to create a local workspace with truffle-config.js. Use the MNEMNIC "canyon decide cause palace clever model stadium tragic syrup knee such squirrel" to create 10 local accounts.
 ```
-First 5 addresses are used in this project.
+The first 5 accounts are used in this project.
 Contract Owner: accounts[0]  0x7De58d745a65dA98aD0d6517a8BA0e6D605A142F
 Farmer: accounts[1]  0xb0806462eED82e639F599457d824DfB77206F7f7
 Distributor: accounts[2]  0x08D10A13e235942c6c63037354A64605f4536eE0
@@ -92,11 +92,23 @@ Make sure to add the local accounts to metamask plugin
 npm run dev
 ```
 
-Select Owner account in metamask and click Set Actors in the DApp UI. This will set account roles.
-Select Farmer account in metamast and perform Harvest, Process, Pack and Forsale actions
-Select Distributer account in metamask and perform Buy and Ship actions
-Select Retailer account in metamast and perform Receive actions
-Select Consumer account in metamask and perform Purchase actions
+- Select Owner account in metamask and click Set Actors in the DApp UI. This will set account roles. 
+- Select Farmer account in metamast and perform Harvest, Process, Pack and Forsale actions. 
+- Select Distributer account in metamask and perform Buy and Ship actions. 
+- Select Retailer account in metamast and perform Receive actions. 
+- Select Consumer account in metamask and perform Purchase actions. 
+
+```
+Transaction History
+Harvested - 0x8be61f5123011dab63040bd1d84d9bead40b053ff6a3e193bd00b9883d98aa83
+Processed - 0x8d52ff7b52c70f9d0e28f2f6ae6333848f36867654e3fe860c0360081bd2e266
+Packed - 0x6712e911c3f80be5189b4c2d3a91aaa283735df3114825e3505160cbbfac7efe
+ForSale - 0xf65c4d48db4b5fc605ebff906a5e92826bfb7453122392c2a2e6fd9c1a7621ad
+Sold - 0x682e01dc198065a0e781a7981aaf532e9be6de4d4bc212a4466097b3db7cece1
+Shipped - 0x39f9117385f9a4278616be5b44dfc3c0b46ae176edf5bf9f3859c7151ff88c26
+Received - 0x7fbad2784ac19b34703d0694563e708d21d9a19f3893dbd323712944838a4d46
+Purchased - 0xfa27ca752e1c7690c9b5e2e22f7028c39f8594a9d53787c0ba1c0204cdcb25dc
+```
 
 ## Contract Deployment and Transaction details
 Rapsten contract address
