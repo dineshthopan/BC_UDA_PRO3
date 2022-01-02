@@ -1,0 +1,5 @@
+{
+  "server": {
+    "baseDir": ["./","./src", "./BC_UDA_PROD3/build/contracts"]
+  }
+}
