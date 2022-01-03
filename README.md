@@ -23,12 +23,12 @@ Below are the UML diagrams for this project.
 ### Project write-up - Libraries
 Below are the libraries used in this project.
 ```
-Truffle v5.4.22 (core: 5.4.22)
-Solidity - 0.8.4 (solc-js)
-Node v16.13.0
-Web3.js v1.5.3
-truffle-hdwallet-provider: ^1.0.17
-Ganache GUI: 2.5.4 
+Truffle v5.4.22 (core: 5.4.22) - Used for compiling, migrating and testing contracts
+Solidity - 0.8.4 (solc-js) - Language compiler
+Node v16.13.0 - Node runtime
+Web3.js v1.5.3 - Javascript library to interact with metamask
+truffle-hdwallet-provider: ^1.0.17 - Used to deploy contract to Raspen network.
+Ganache GUI: 2.5.4 - Local block chain for development and testing purpose.
 ```
 
 ### Project write-up - IPFS
