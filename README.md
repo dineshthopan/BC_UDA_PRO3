@@ -9,7 +9,7 @@ Original project details repo is available at https://github.com/udacity/nd1309-
 Below are the UML diagrams for this project.
 
 #### Activity Diagram
-
+![image](https://user-images.githubusercontent.com/65207094/147897073-a66ff03e-4db2-48a7-afe8-b14aff0ad6ea.png)
 
 #### Sequence Diagram
 
