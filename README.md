@@ -12,7 +12,7 @@ Below are the UML diagrams for this project.
 ![image](https://user-images.githubusercontent.com/65207094/147897073-a66ff03e-4db2-48a7-afe8-b14aff0ad6ea.png)
 
 #### Sequence Diagram
-
+![image](https://user-images.githubusercontent.com/65207094/147897191-61ab0cbd-6a48-455b-8971-5742eaab9850.png)
 
 #### State Diagram
 
