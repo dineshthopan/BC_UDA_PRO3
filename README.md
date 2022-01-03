@@ -18,7 +18,7 @@ Below are the UML diagrams for this project.
 ![image](https://user-images.githubusercontent.com/65207094/147898833-46c477f1-67c6-4da1-8b1f-3c63ebe0d5dd.png)
 
 #### Classes (Data Model)
-
+![image](https://user-images.githubusercontent.com/65207094/147899622-63598e87-79d4-4349-9abf-d3e09a17981f.png)
 
 ### Project write-up - Libraries
 Below are the libraries used in this project.
